@@ -1,0 +1,72 @@
+body {
+    text-align: center;
+    margin: 0;
+    background-color: pink;
+}
+
+.personal {
+    text-align: center;
+    border-style: dashed;
+    margin-top: 20px;
+    border-color: green;
+}
+
+.myInfo {
+    border-style: dashed;
+    border-color: green;
+}
+
+.home {
+    border-style: dashed;
+    border-color: green;
+}
+
+.personal h3 {
+    margin: 2px;
+    text-align: left;
+}
+
+.personal h2 {
+    text-align: center;
+    margin: 0;
+}
+
+.skills {
+    color: red;
+}
+
+img {
+    width: 90%;
+    margin-top: 5px;
+}
+
+.avatars {
+    width: 30%;
+    margin: 2px;
+    border-radius: 50%;
+}
+
+.background {
+    width: 100%;
+}
+
+.info {
+    width: 100%;
+    margin-top: 5px;
+}
+
+a {
+    color: blue;
+}
+
+nav {
+    text-align: center;
+}
+
+nav a {
+    display: inline-block;
+    height: 30px;
+    line-height: 30px;
+    width: 30%;
+    font-size: 14px;
+}
